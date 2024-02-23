@@ -1,7 +1,7 @@
 {
   "name": "seed-phrase-generator",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "seed pharse generator",
   "main": "seed-phrase-generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/danny-pham/seed-phrase-generator.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "danny-pham",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/danny-pham/seed-phrase-generator/issues"
   },
@@ -20,5 +20,6 @@
   "dependencies": {
     "bip39": "^3.1.0",
     "secure-random": "^1.1.2"
-  }
+  },
+  "devDependencies": {}
 }
