@@ -1,6 +1,6 @@
 {
   "name": "seed-phrase-generator",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "seed pharse generator",
   "main": "seed-phrase-generator.js",
   "scripts": {
