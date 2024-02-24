@@ -11,8 +11,8 @@
     "url": "git+https://github.com/danny-pham/seed-phrase-generator.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "danny-pham",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/danny-pham/seed-phrase-generator/issues"
   },
@@ -21,5 +21,6 @@
     "bip39": "^3.1.0",
     "ethereumjs-wallet": "^1.0.2",
     "secure-random": "^1.1.2"
-  }
+  },
+  "devDependencies": {}
 }
