@@ -1,6 +1,6 @@
 {
   "name": "seed-phrase-generator",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "description": "seed pharse generator",
   "main": "seed-phrase-generator.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danny-pham/seed-phrase-generator.git"
+    "url": "https://github.com/danny-pham/seed-phrase-generator.git"
   },
   "keywords": [],
   "author": "danny-pham",
