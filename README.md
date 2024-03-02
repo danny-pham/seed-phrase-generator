@@ -18,7 +18,7 @@ yarn add seed-phrase-generator
 Here's how to use the library to generate a seed phrase and create an Ethereum wallet from the seed phrase:
 
 ```
-const seedPhraseGenerator = require('seed-phrase-generator');
+const seedPhraseGenerator = require('./seed-phrase-generator');
 
 // Generate a seed phrase
 const seedPhrase = seedPhraseGenerator.generateSeedPhrase(); // Defaults to 12 words
