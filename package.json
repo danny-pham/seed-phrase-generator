@@ -1,10 +1,10 @@
 {
   "name": "seed-phrase-generator",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "seed pharse generator",
   "main": "seed-phrase-generator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "repository": {
     "type": "git",
@@ -27,8 +27,7 @@
   "homepage": "https://github.com/danny-pham/seed-phrase-generator#readme",
   "dependencies": {
     "bip39": "^3.1.0",
-    "ethereumjs-wallet": "^1.0.2",
-    "secure-random": "^1.1.2"
+    "ethereumjs-wallet": "^1.0.2"
   },
   "devDependencies": {}
 }
