@@ -1,7 +1,7 @@
 {
   "name": "seed-phrase-generator",
-  "version": "1.2.6",
-  "description": "seed pharse generator",
+  "version": "1.2.7",
+  "description": "Seed Phrase Generator is a simple JavaScript library that helps you generate random seed phrases, which can be used to create Ethereum wallets",
   "main": "seed-phrase-generator.js",
   "scripts": {
     "test": "test.js"
